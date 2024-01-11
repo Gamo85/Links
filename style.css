@@ -1,0 +1,32 @@
+body {
+    background-color:#27206C ;
+    background: url(Eu.jpg);
+   
+}
+h1 {
+    color: #04AA6D;
+}
+p {
+    color: #000000;
+  
+}
+
+a {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+img{
+   max-width: 300px;
+   max-height: 300px;
+   width: auto;
+   height: auto;
+}
